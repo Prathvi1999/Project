@@ -5,7 +5,7 @@ public class Sample {
 		System.out.println("Sample class");
 		System.out.println("Hi");
 		System.out.println("Updates messaga: Good Evening");
-        System.out.println("In Project repository");
+		System.out.println("HelloJi");
 	}
 
 }
